@@ -1,0 +1,170 @@
+{
+  "DataName": "crx",
+  "DataSaveName": "Crx",
+  "DataPath": "../../../data/credit/",
+  "DataTypesPath": "../../../data/credit/credit-type.txt",
+  "DataSeparator": ",",
+  "DataNormalizationFrom": 0,
+  "DataNormalizationTo": 1,
+  "ClassColumn": 16,
+  "A1Min": 1,
+  "A1Max": 2,
+  "A2Min": 13.75,
+  "A2Max": 76.75,
+  "A3Min": 0,
+  "A3Max": 28,
+  "A4Min": 3,
+  "A4Max": 5,
+  "A5Min": 29,
+  "A5Max": 32,
+  "A6Min": 7,
+  "A6Max": 20,
+  "A7Min": 11,
+  "A7Max": 27,
+  "A8Min": 0,
+  "A8Max": 28.50,
+  "A9Min": 6,
+  "A9Max": 28,
+  "A10Min": 6,
+  "A10Max": 28,
+  "A11Min": 0,
+  "A11Max": 67,
+  "A12Min": 6,
+  "A12Max": 28,
+  "A13Min": 29,
+  "A13Max": 31,
+  "A14Min": 0,
+  "A14Max": 2000,
+  "A15Min": 0,
+  "A15Max": 100000,
+  "DataSymbolicsToNumerics": [
+    {
+      "From": "a",
+      "To": 1
+    },
+    {
+      "From": "b",
+      "To": 2
+    },
+    {
+      "From": "u",
+      "To": 3
+    },
+    {
+      "From": "y",
+      "To": 4
+    },
+    {
+      "From": "l",
+      "To": 5
+    },
+    {
+      "From": "t",
+      "To": 6
+    },
+    {
+      "From": "c",
+      "To": 7
+    },
+    {
+      "From": "d",
+      "To": 8
+    },
+    {
+      "From": "cc",
+      "To": 9
+    },
+    {
+      "From": "i",
+      "To": 10
+    },
+    {
+      "From": "j",
+      "To": 11
+    },
+    {
+      "From": "k",
+      "To": 12
+    },
+    {
+      "From": "m",
+      "To": 13
+    },
+    {
+      "From": "r",
+      "To": 14
+    },
+    {
+      "From": "q",
+      "To": 15
+    },
+    {
+      "From": "w",
+      "To": 16
+    },
+    {
+      "From": "x",
+      "To": 17
+    },
+    {
+      "From": "e",
+      "To": 18
+    },
+    {
+      "From": "aa",
+      "To": 19
+    },
+    {
+      "From": "ff",
+      "To": 20
+    },
+    {
+      "From": "v",
+      "To": 21
+    },
+    {
+      "From": "h",
+      "To": 22
+    },
+    {
+      "From": "bb",
+      "To": 23
+    },
+    {
+      "From": "n",
+      "To": 24
+    },
+    {
+      "From": "z",
+      "To": 25
+    },
+    {
+      "From": "dd",
+      "To": 26
+    },
+    {
+      "From": "o",
+      "To": 27
+    },
+    {
+      "From": "f",
+      "To": 28
+    },
+    {
+      "From": "g",
+      "To": 29
+    },
+    {
+      "From": "p",
+      "To": 30
+    },
+    {
+      "From": "s",
+      "To": 31
+    },
+    {
+      "From": "gg",
+      "To": 32
+    }
+  ]
+}
